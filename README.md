@@ -1,2 +1,2 @@
-# the_rapture
+# The Rapture
 Mobile game made with Unity Engine
