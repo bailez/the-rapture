@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 94a3f8590b7d4454faa1a17fc4d4ea19
+timeCreated: 1451858828
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 12_0
+    21300002: 12_1
+    21300004: 12_2
+    21300006: 12_3
+    21300008: 12_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 27
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 8192
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: 12_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 25}
+        - {x: -19, y: 22}
+        - {x: -19, y: -8}
+        - {x: -2, y: -19}
+        - {x: 10, y: -19}
+        - {x: 18, y: -14}
+        - {x: 18, y: 18}
+        - {x: 16, y: 25}
+    - name: 12_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 27}
+        - {x: -10, y: 24}
+        - {x: -16, y: 15}
+        - {x: -16, y: -3}
+        - {x: -9, y: -18}
+        - {x: 7, y: -18}
+        - {x: 19, y: -3}
+        - {x: 19, y: 18}
+        - {x: 9, y: 27}
+    - name: 12_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 25}
+        - {x: -15, y: 21}
+        - {x: -15, y: -11}
+        - {x: -14, y: -17}
+        - {x: -10, y: -18}
+        - {x: 2, y: -18}
+        - {x: 19, y: -9}
+        - {x: 19, y: 23}
+        - {x: 16, y: 25}
+    - name: 12_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 27}
+        - {x: -19, y: 17}
+        - {x: -19, y: -10}
+        - {x: -6, y: -18}
+        - {x: 10, y: -18}
+        - {x: 16, y: -4}
+        - {x: 16, y: 24}
+        - {x: 10, y: 27}
+    - name: 12_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 25}
+        - {x: -14, y: 25}
+        - {x: -19, y: 22}
+        - {x: -19, y: -8}
+        - {x: -11, y: -18}
+        - {x: 13, y: -18}
+        - {x: 14, y: -17}
+        - {x: 15, y: -15}
+        - {x: 15, y: 13}
+        - {x: 13, y: 24}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

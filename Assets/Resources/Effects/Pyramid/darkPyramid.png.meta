@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 96fbba58f637e9d47af03d33df5fc1e0
+timeCreated: 1453247548
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: darkPyramid_0
+    21300002: darkPyramid_1
+    21300004: darkPyramid_2
+    21300006: darkPyramid_3
+    21300008: darkPyramid_4
+    21300010: darkPyramid_5
+    21300012: darkPyramid_6
+    21300014: darkPyramid_7
+    21300016: darkPyramid_8
+    21300018: darkPyramid_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 37
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: darkPyramid_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -12}
+        - {x: -38, y: -19}
+        - {x: -7, y: -35}
+        - {x: 4, y: -35}
+        - {x: 37, y: -19}
+        - {x: 37, y: -15}
+        - {x: 33, y: -7}
+        - {x: 5, y: 36}
+        - {x: -5, y: 36}
+        - {x: -8, y: 35}
+    - name: darkPyramid_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 216
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 36}
+        - {x: -38, y: -14}
+        - {x: -38, y: -25}
+        - {x: -4, y: -36}
+        - {x: 13, y: -36}
+        - {x: 14, y: -35}
+        - {x: 36, y: -19}
+        - {x: 36, y: -11}
+        - {x: 8, y: 36}
+    - name: darkPyramid_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 216
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 36}
+        - {x: -6, y: 33}
+        - {x: -38, y: -16}
+        - {x: -38, y: -24}
+        - {x: 0, y: -34}
+        - {x: 19, y: -34}
+        - {x: 22, y: -33}
+        - {x: 34, y: -15}
+        - {x: 34, y: -11}
+        - {x: 4, y: 36}
+    - name: darkPyramid_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: 36}
+        - {x: -11, y: 36}
+        - {x: -38, y: -19}
+        - {x: -38, y: -26}
+        - {x: -33, y: -29}
+        - {x: 10, y: -33}
+        - {x: 24, y: -33}
+        - {x: 30, y: -13}
+        - {x: 30, y: -8}
+        - {x: 25, y: 17}
+    - name: darkPyramid_4
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 144
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5, y: 36}
+        - {x: -36, y: -26}
+        - {x: -36, y: -31}
+        - {x: 30, y: -31}
+        - {x: 30, y: -17}
+        - {x: 5, y: 36}
+    - name: darkPyramid_5
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 144
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 36}
+        - {x: -33, y: -20}
+        - {x: -33, y: -28}
+        - {x: -32, y: -30}
+        - {x: 2, y: -30}
+        - {x: 32, y: -29}
+        - {x: 34, y: -27}
+        - {x: 29, y: 12}
+        - {x: 2, y: 36}
+    - name: darkPyramid_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 36}
+        - {x: -4, y: 36}
+        - {x: -31, y: -5}
+        - {x: -31, y: -19}
+        - {x: -27, y: -32}
+        - {x: -3, y: -32}
+        - {x: 30, y: -29}
+        - {x: 37, y: -26}
+        - {x: 37, y: -22}
+        - {x: 33, y: -14}
+    - name: darkPyramid_7
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 72
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 36}
+        - {x: -8, y: 36}
+        - {x: -34, y: -9}
+        - {x: -34, y: -16}
+        - {x: -23, y: -33}
+        - {x: -4, y: -33}
+        - {x: 38, y: -26}
+        - {x: 38, y: -17}
+        - {x: 18, y: 25}
+    - name: darkPyramid_8
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: 36}
+        - {x: -5, y: 36}
+        - {x: -30, y: 0}
+        - {x: -37, y: -13}
+        - {x: -37, y: -15}
+        - {x: -15, y: -35}
+        - {x: -8, y: -35}
+        - {x: 38, y: -24}
+        - {x: 38, y: -16}
+        - {x: 7, y: 30}
+    - name: darkPyramid_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 36}
+        - {x: -38, y: -5}
+        - {x: -38, y: -36}
+        - {x: 38, y: -36}
+        - {x: 38, y: -7}
+        - {x: 5, y: 36}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

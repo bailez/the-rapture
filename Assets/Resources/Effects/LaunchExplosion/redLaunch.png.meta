@@ -1,0 +1,184 @@
+fileFormatVersion: 2
+guid: dc5b5a523565ffa419567de95ba30786
+timeCreated: 1451862185
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: redLaunch_0
+    21300002: redLaunch_1
+    21300004: redLaunch_2
+    21300006: redLaunch_3
+    21300008: redLaunch_4
+    21300010: redLaunch_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 27
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: redLaunch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 5}
+        - {x: -15, y: 1}
+        - {x: -15, y: -3}
+        - {x: -12, y: -5}
+        - {x: -8, y: -5}
+        - {x: -6, y: -2}
+        - {x: -6, y: 2}
+        - {x: -8, y: 4}
+    - name: redLaunch_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 6}
+        - {x: -18, y: 2}
+        - {x: -18, y: -2}
+        - {x: -14, y: -6}
+        - {x: -9, y: -6}
+        - {x: -5, y: -4}
+        - {x: -5, y: 4}
+        - {x: -8, y: 6}
+    - name: redLaunch_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 6}
+        - {x: -23, y: 1}
+        - {x: -23, y: -3}
+        - {x: -15, y: -6}
+        - {x: -4, y: -6}
+        - {x: -3, y: -3}
+        - {x: -3, y: 5}
+        - {x: -5, y: 6}
+    - name: redLaunch_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 6}
+        - {x: -24, y: 4}
+        - {x: -25, y: 3}
+        - {x: -25, y: -4}
+        - {x: -17, y: -6}
+        - {x: -5, y: -6}
+        - {x: -4, y: -2}
+        - {x: -4, y: 4}
+        - {x: -7, y: 6}
+    - name: redLaunch_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 6}
+        - {x: -23, y: 3}
+        - {x: -23, y: -2}
+        - {x: -22, y: -4}
+        - {x: -14, y: -6}
+        - {x: -7, y: -6}
+        - {x: -4, y: -1}
+        - {x: -4, y: 4}
+        - {x: -9, y: 6}
+    - name: redLaunch_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 3}
+        - {x: -19, y: -1}
+        - {x: -16, y: -4}
+        - {x: -8, y: -4}
+        - {x: -5, y: -2}
+        - {x: -5, y: 1}
+        - {x: -7, y: 4}
+        - {x: -18, y: 4}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
